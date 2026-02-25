@@ -1,0 +1,21 @@
+            *{
+                margin: 0%;
+            }  
+
+
+
+              h1{
+                    text-align: center;
+                    background-color: aqua;
+                }
+                p{
+                    text-align: center;
+                    background-color: aquamarine;
+                }
+                body { 
+                    background-color: bisque;
+                    font-family: "Mea Culpa", cursive;
+  font-weight: 400;
+                }
+@import url('https://fonts.googleapis.com/css2?family=Mea+Culpa&display=swap');
+
